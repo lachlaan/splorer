@@ -1,0 +1,9 @@
+build/*
+screenshots/*
+*.json
+dynamic.sqlite
+*.bkp
+*.log
+*.bat
+*.sqlite
+*.ini
